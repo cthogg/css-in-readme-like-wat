@@ -84,7 +84,7 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
-				<iframe src="https://nozzle.io"></iframe>
+				<iframe src="http://starkravingfinkle.org/blog" style="width:700px;height:700px"></iframe>
 			</div>
 		</div>
 	</foreignObject>
